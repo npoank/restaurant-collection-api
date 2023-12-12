@@ -9,7 +9,7 @@ This is my project that can be run using Docker.
 ## Installation:
 
 1. Clone the repository: git clone https://github.com/npoank/restaurant-collection-api.git
-2. Open a command prompt or terminal window. Navigate to the root directory of your Spring Boot project. This is typically the directory where pom.xml file is located. Run the following command:
+2. Open a command prompt or terminal window. Navigate to the root directory of this project. This is typically the directory where pom.xml file is located. Run the following command:
 
         mvn install
 
